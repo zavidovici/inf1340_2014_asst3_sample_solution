@@ -2,8 +2,8 @@
 
 """ Docstring """
 
-__author__ = 'Susan Sim'
-__email__ = "ses@drsusansim.org"
+__author__ = 'Susan Sim, Sasa Milic'
+__email__ = "ses@drsusansim.org, milic@cs.toronto.edu"
 
 __copyright__ = "2014 Susan Sim"
 __license__ = "MIT License"
